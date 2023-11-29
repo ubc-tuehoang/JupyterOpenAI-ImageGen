@@ -34,7 +34,7 @@ jobs:
 
       - id: jupyter 
         name: Jupyter Notebook Execution
-        run: jupyter execute canada_covid_live_data.ipynb
+        run: jupyter execute imagegen2.ipynb
         shell: bash 
 
  # Add new files in folder, commit along with other modified files, push
